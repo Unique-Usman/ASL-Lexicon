@@ -1,9 +1,5 @@
----
-layout: page
-title: "Welcome to ISMRM OSIPI ASL Lexicon"
-tagline: currently under construction
-description: Webversion ASL Lexicon
----
+# Welcome to ISMRM OSIPI ASL Lexicon (currently under construction)
+
 
 ## Introduction 
 
