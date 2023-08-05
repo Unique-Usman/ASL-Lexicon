@@ -16,7 +16,7 @@
 title: ISMRM OSIPI ASL-Lexicon
 email: "yuriko.suzuki@ndcn.ox.ac.uk"
 description: >- # this means to ignore newlines until "baseurl:"
-  Web-version ASL-Lexicon by ISMRM Open Science Initiative for Perfusion Imaging (OSIPI)
+  ASL-Lexicon by ISMRM Open Science Initiative for Perfusion Imaging (OSIPI)
 baseurl: "ASL-Lexicon" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
