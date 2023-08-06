@@ -1,34 +1,13 @@
 ---
 layout: page
-title: Introduction
+title: 1. Introduction
 permalink: /1-introduction/
 ---
 
-<!-----
-
-Yay, no errors, warnings, or alerts!
-
-Conversion time: 0.57 seconds.
-
-
-Using this Markdown file:
-
-1. Paste this output into your source file.
-2. See the notes and action items below regarding this conversion run.
-3. Check the rendered output (headings, lists, code blocks, tables) for proper
-   formatting and use a linkchecker before you publish this page.
-
-Conversion notes:
-
-* Docs to Markdown version 1.0β34
-* Sun Aug 06 2023 03:22:00 GMT-0700 (PDT)
-* Source doc: 1. Introduction
------>
 
 ![OSIPI logo](https://osipi.github.io/assets/img/logo.png)
 
 &nbsp;&nbsp;
-# 1. **Introduction**
 
 Following the consensus statement for the recommended implementation of arterial spin labeling (ASL) perfusion MRI for clinical application in the brain <sup>1</sup> by the Perfusion Study Group (SG) of the International Society for Magnetic Resonance in Medicine (ISMRM) and the European Consortium for ASL in Dementia (COST Action BM1103) in 2014 (referred to hereafter as the ‘ASL White Paper’), standardized ASL perfusion imaging sequences have now been implemented by the majority of MRI manufacturers. Recommended acquisition protocols and the increased availability of ASL imaging sequences have encouraged the use of ASL in clinical applications <sup>2</sup>. However, ASL remains a rapidly and widely developing field, both in terms of improving the accuracy and precision of cerebral blood flow (CBF) quantification via advances in pulse sequence and post-processing methods, and providing other output derivatives in addition to CBF (e.g., arterial transit times). These advances have greatly expanded the scope of ASL, but also bring further divergence of the technique, particularly in the terminology used, which can lead to confusion and hamper interoperability. In addition, motivated by the non-invasive nature of ASL, there is an increased number of large cohort studies that adopt ASL perfusion imaging, such as the Alzheimer’s Disease Neuroimaging Initiative (ADNI3; [http://adni.loni.usc.edu/adni-3/](http://adni.loni.usc.edu/adni-3/)) and some branches of the Human Connectome Project <sup>3</sup>, in which data are acquired from multiple sites using different MRI scanners. To maximize the usefulness of these data, guidelines for consistent reporting of image acquisition parameters are essential.
 
