@@ -1,3 +1,9 @@
+---
+layout: page
+title: Introduction
+permalink: /1-introduction/
+---
+
 <!-----
 
 Yay, no errors, warnings, or alerts!
@@ -18,7 +24,6 @@ Conversion notes:
 * Sun Aug 06 2023 03:22:00 GMT-0700 (PDT)
 * Source doc: 1. Introduction
 ----->
-
 
 ![OSIPI logo](https://osipi.github.io/assets/img/logo.png)
 
